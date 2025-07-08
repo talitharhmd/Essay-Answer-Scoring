@@ -19,5 +19,5 @@ https://colab.research.google.com/drive/1uSmybyqBwXzGTzrKNOjBj5RAWVwvDpuS?usp=sh
 | AI bisa bikin lulus cepat tapi nggak ngerti apa-apa. Tetap pakai atau tidak? Kenapa?             | Object                                 |
 
 ### 🔍 Tema dan Jenis Data
-"Refleksi Singkat: Pengaruh AI dalam Mengerjakan Tugas Kuliah"
-Jawaban berbentuk narasi bebas, digunakan untuk evaluasi semantik dan pemahaman reflektif melalui sistem Automated Essay Scoring (AES).
+- Tema: "Refleksi Singkat: Pengaruh AI dalam Mengerjakan Tugas Kuliah"
+- Jenis Data: Jawaban berbentuk narasi bebas, digunakan untuk evaluasi semantik dan pemahaman reflektif melalui sistem Automated Essay Scoring (AES).
